@@ -10,9 +10,9 @@ same bytes.
 import os
 
 JOKE = (
-    "I told my AI coding agent to make the code self-documenting, "
-    "and now every function politely introduces itself before "
-    "doing anything."
+    "I asked my AI coding agent for self-documenting code, and now "
+    "every function politely introduces itself, explains its "
+    "feelings, and only then does the work."
 )
 
 
